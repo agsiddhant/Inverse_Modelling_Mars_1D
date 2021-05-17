@@ -2,3 +2,5 @@
 Inverse probabilistic inference of mantle convection parameters of Mars using Mixture Density Networks
  
  <a href="https://zenodo.org/badge/latestdoi/275195760"><img src="https://zenodo.org/badge/275195760.svg" alt="DOI"></a>
+
+Publication with details: https://doi.org/10.1029/2020EA001484
